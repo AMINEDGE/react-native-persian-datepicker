@@ -77,7 +77,7 @@ export class PersianDatePicker extends React.Component {
                 onChange={(selectedDate) => { this.onDateSelected(selectedDate) }}
                 label={['سال', 'ماه', 'روز']}
                 >
-                <Text style={this.styles.text}>{Strings.birthDate}</Text>
+                <Text style={this.styles.text}>{this.props.text}</Text>
                 
             </Picker>
         );
@@ -95,7 +95,7 @@ export class PersianDatePicker extends React.Component {
         text: {
             fontFamily: 'IRANSansMobile',
             fontSize: 16,
-            color: Colors.normalGray,
+            color: '#CCC',
             padding: 10,
         }
     });
