@@ -1,0 +1,62 @@
+{
+  "_from": "react-native-multiple-picker@0.0.21",
+  "_id": "react-native-multiple-picker@0.0.21",
+  "_inBundle": false,
+  "_integrity": "sha512-ydlMEw00w36Gjbbe3EhQeUSdsTZ8JVDDemZF909BaKrizYCQvdlgZur1SCAbpTshQGyBjrmMo5N+ocozbgt0Vw==",
+  "_location": "/react-native-multiple-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-multiple-picker@0.0.21",
+    "name": "react-native-multiple-picker",
+    "escapedName": "react-native-multiple-picker",
+    "rawSpec": "0.0.21",
+    "saveSpec": null,
+    "fetchSpec": "0.0.21"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-multiple-picker/-/react-native-multiple-picker-0.0.21.tgz",
+  "_shasum": "3b8319f31df9e4c4b72443096c298544d773ed94",
+  "_spec": "react-native-multiple-picker@0.0.21",
+  "_where": "/Users/aminhajari/Desktop/sali-project/PatientApp",
+  "author": {
+    "name": "Mojtaba Izadmehr"
+  },
+  "bugs": {
+    "url": "https://github.com/S4liz/react-native-multiple-picker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-linear-gradient": "^2.3.0"
+  },
+  "deprecated": false,
+  "description": "A fancy cross-platform multiple picker module for react-native.",
+  "homepage": "https://github.com/S4liz/react-native-multiple-picker#readme",
+  "keywords": [
+    "react-native",
+    "picker",
+    "multi",
+    "multiple",
+    "select",
+    "selector",
+    "date",
+    "date-picker",
+    "time-picker",
+    "wheel-picker"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-multiple-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S4liz/react-native-multiple-picker.git"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "version": "0.0.21"
+}
