@@ -16,7 +16,7 @@ A customized component which can be used as Persian Datepicker
 First copy project files into your project directory (you can import them into a folder named "PersianDatePicker")
 and import the component like below
 
-```
+```javascript
 ...
 import { PersianDatePicker } from './PersianDatePicker/PersianDatePicker';
 
